@@ -1,8 +1,0 @@
-#surefire
-#Wed Sep 26 18:59:50 BRT 2018
-maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
-user.dir=C\:\\github\\AtividadeReposicao
-file.encoding=UTF-8
-localRepository=C\:\\Users\\Neto\\.m2\\repository
-basedir=C\:\\github\\AtividadeReposicao
-test=br.edu.utfpr.reposicao.RedmineTest
